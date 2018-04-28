@@ -1,5 +1,9 @@
 # PechkusPart1Task2
 
+<h2>About:</h2>
+<h4>
+	This project contains python script for the Task2 of Part1.
+</h4>
 
 <h2>Usage:</h2>
 <h4>python main.py</h4>
