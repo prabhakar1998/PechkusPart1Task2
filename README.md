@@ -14,24 +14,18 @@
 	</h4>
 
 <h2>Installations:</h2>
-
-	<h4>
 	  <ul>
 	  	<li>pip install pandas</li>
 	  	<li>pip install xlwt</li>
 	  	<li>pip install inflect</li>
 	  </ul>
-	</h4>
-
 <h2>Working:</h2>
 	<h3>Input:</h3>
 		<p>
 			The scrit uses three excel sheets as INPUT:
 			  <ul>
 			  	<li>orders.xlsx</li>
-
 			  	<li>GST.xlsx</li>
-
 			  	<li>state.xlsx</li>
 			  </ul>
 		</p>
@@ -42,4 +36,5 @@
 			  	<li>invoice.xlsx</li>
 			 </ul>
 			The output file "invoice.xlsx" contains n sheets, with each sheet having two invoice in it.
+
 		</p>
