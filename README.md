@@ -22,19 +22,16 @@
 <h2>Working:</h2>
 	<h3>Input:</h3>
 		<p>
-			The scrit uses three excel sheets as INPUT:
+			The script uses three excel sheets as INPUT:
 			  <ul>
-			  	<li>orders.xlsx</li>
-			  	<li>GST.xlsx</li>
-			  	<li>state.xlsx</li>
+			  	<li>orders.xlsx <img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart1Task2/master/orders.png" alt="Orders"></li>
+			  	<li>GST.xlsx   <img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart1Task2/master/gst.png" alt="Gst"></li>
+			  	<li>state.xlsx <img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart1Task2/master/states.png" alt="States"></li>
 			  </ul>
 		</p>
     <h3>Output:</h3>
-		<p>
-			The scrit stores all the invoices in the sheet:
+			The script stores all the invoices in the sheet:
 			  <ul>
-			  	<li>invoice.xlsx</li>
+			  	<li>invoice.xlsx <img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart1Task2/master/invoice_sheet1_output.png" alt="Invoice Sheet1 Output"></li>
 			 </ul>
 			The output file "invoice.xlsx" contains n sheets, with each sheet having two invoice in it.
-
-		</p>
