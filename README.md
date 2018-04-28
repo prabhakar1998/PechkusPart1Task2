@@ -8,7 +8,7 @@
 <h2>Usage:</h2>
 <h4>python main.py</h4>
 
-<h2>Reuirements:</h2>
+<h2>Requirements:</h2>
 	<h4>
 	  <ul>
 	  	<li>pandas</li>
